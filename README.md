@@ -1,7 +1,3 @@
-Hi there!
-
-My name is Frederico Pinheiro, and im a Software Developer.
-
 ### Hi there 👋
 
 - 🔭 I’m currently working with Unreal engine 5 and C++ making Flight Simulators.
